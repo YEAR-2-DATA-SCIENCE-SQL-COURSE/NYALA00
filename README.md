@@ -52,7 +52,7 @@ This project uses a small educational dataset.
 
 The prototype permits at most one tariff for a goods item, origin, destination, and date; it does not require a record for every possible route. Absence of a record does not mean a zero tariff.
 
-## 4. Problem Statement
+## 4. Problem Statement /
 
 The project addresses a data-management problem: how can tariff records be organized so that a user can identify the recorded rate for a goods item, origin, destination, and date while retaining previous rates?
 
