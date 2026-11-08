@@ -15,6 +15,7 @@
 - **Repository:** [YEAR-2-DATA-SCIENCE-SQL-COURSE/NYALA00](https://github.com/YEAR-2-DATA-SCIENCE-SQL-COURSE/NYALA00)
 
 ## 2. Group Members
+## Group Members 
 
 Names are transcribed from the group roster supplied by the group leader. The approved responsibilities are recorded in Section 16.
 
